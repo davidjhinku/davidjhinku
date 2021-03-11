@@ -36,6 +36,19 @@
 <img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/jquery.svg" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/git.svg" />
+<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/heroku.svg" />
+
+<br />
+<br />
+
+---
+
+<!-- <details>
+  <summary>:zap: GitHub Stats</summary> -->
+
+  <img align="left" alt="davidjhinku's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidjhinku&show_icons=true&hide_border=true&count_private=true" />
+
+<!-- </details> -->
 
 <!--
 **davidjhinku/davidjhinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
