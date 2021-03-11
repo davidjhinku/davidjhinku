@@ -23,19 +23,19 @@
 
 ### Skills:
 
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" />]
-[<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" />]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/sass.svg" />]
-[<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/ruby.svg" />]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/postgresql.svg" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mongodb.svg" />]
-[<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/jquery.svg" />]
-[<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />]
-[<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/git.svg" />]
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" />
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/nodejs.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/css3.svg" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/sass.svg" />
+<img align="left" alt="Ruby on Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/ruby.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/postgresql.svg" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/mongodb.svg" />
+<img align="left" alt="jQuery" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/jquery.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/aws.svg" />
+<img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/git.svg" />
 
 <!--
 **davidjhinku/davidjhinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
