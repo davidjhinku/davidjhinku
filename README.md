@@ -33,7 +33,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="davidjhinku.com" width="22px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/chrome.svg" />][website]
+[<img align="left" alt="davidjhinku.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/googlechrome.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/angellist.svg" />][angellist]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/twitter.svg" />][twitter]
@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/DavidJhinku
 [instagram]: https://www.instagram.com/davidjhinku
 [dinnr]: https://dinnr-aa.herokuapp.com/
-[email]: mailto:davidjhinku@gmail.com
+[email]: mailto:davidjhinku@gmail.com?subject=[Github]%Lets%Connect!
