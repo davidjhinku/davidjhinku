@@ -33,12 +33,12 @@
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="davidjhinku.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" alt="davidjhinku.com" width="22px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/chrome.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/angellist.svg" />][angellist]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg" />][email] -->
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/gmail.svg" />][email]
 
 <br />
 
