@@ -4,7 +4,7 @@
 
 - 👨‍💻  Looking to put my skills to work at a company utilizing technology to improve lives in their community
 - 🥅  2021 Goals: Create my own workout tracking app
-- 🏔  Fun fact: I waited 8 hours for a gondola after a hike since walking down was prohibited
+- 🏔  Fun fact: I once waited 8 hours for a gondola after a hike since walking down was prohibited
 
 ### Connect with me:
 
