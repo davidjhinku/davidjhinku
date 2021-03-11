@@ -38,6 +38,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/angellist.svg" />][angellist]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/instagram.svg" />][email] -->
 
 <br />
 
@@ -72,3 +73,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/DavidJhinku
 [instagram]: https://www.instagram.com/davidjhinku
 [dinnr]: https://dinnr-aa.herokuapp.com/
+[email]: mailto:davidjhinku@gmail.com
