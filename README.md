@@ -42,6 +42,7 @@
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/gmail.svg" />][email]
 
 <br />
+<br />
 
 ---
 
