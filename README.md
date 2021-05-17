@@ -9,7 +9,8 @@
 
 ### Currently working on:
 
-- 🍽  Adding a layer of polish to [Dinnr][dinnr], my fullstack clone of OpenTable
+<!-- - 🍽  Adding a layer of polish to [Dinnr][dinnr], my fullstack clone of OpenTable -->
+- 👵  Working with a rockstar team to build a volunteer platform for AAPI seniors called [Protect Our Elders][elder] to feel safe walking in their community
 - 🌱  Starting a Python course shortly
 
 ### Skills:
@@ -73,4 +74,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/DavidJhinku
 [instagram]: https://www.instagram.com/davidjhinku
 [dinnr]: https://dinnr-aa.herokuapp.com/
+[elder]: https://protectourelders.herokuapp.com/#/
 [email]: mailto:davidjhinku@gmail.com?subject=[Github]%Lets%Connect!
