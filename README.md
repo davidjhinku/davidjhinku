@@ -1,14 +1,14 @@
 ### Hey there, I'm David, nice to meet you! 👋
 
-## I'm a software engineer and a westcoast transplant learning to adapt to winter
+## I'm a software engineer and a westcoast transplant learning to adapt to winter in Chicago
 
-- 👨‍💻 Looking to put my skills to work at a company utilizing technology to improve lives in their community
+- 👨‍💻 Looking exciting new ways to put my skills to work
 - 🥅  2021 Goals: Create my own workout tracking app
 - 🏔  Fun fact: I once waited 8 hours for a gondola after a hike since walking down was prohibited
 
 
 ### Currently working on:
-
+- 💲  Building financial tools at Sezzle, a buy now pay later firm empowering the next generation
 <!-- - 🍽  Adding a layer of polish to [Dinnr][dinnr], my fullstack clone of OpenTable -->
 - 👵  Working with a rockstar team to build a volunteer platform for AAPI seniors called [Protect Our Elders][elder] to feel safe walking in their community
 - 🌱  Starting a Python course shortly
@@ -55,17 +55,6 @@
 
 <!--
 **davidjhinku/davidjhinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
