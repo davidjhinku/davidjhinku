@@ -2,8 +2,7 @@
 
 ## I'm a software engineer and a westcoast transplant learning to adapt to winter in Chicago
 
-- 👨‍💻 Looking exciting new ways to put my skills to work
-- 🥅  2021 Goals: Create my own workout tracking app
+- 🥅  2022 Goals: Create my own workout tracking app
 - 🏔  Fun fact: I once waited 8 hours for a gondola after a hike since walking down was prohibited
 
 
