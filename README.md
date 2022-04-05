@@ -17,7 +17,7 @@
 
 ### Skills:
 
-<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-line.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />
