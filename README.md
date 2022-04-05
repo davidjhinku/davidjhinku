@@ -7,13 +7,15 @@
 
 
 ### Currently working on:
-- 💲  Building financial tools at Sezzle, a buy now pay later firm empowering the next generation
-<!-- - 🍽  Adding a layer of polish to [Dinnr][dinnr], my fullstack clone of OpenTable -->
-- 👵  Working with a rockstar team to build a volunteer platform for AAPI seniors called [Protect Our Elders][elder] to feel safe walking in their community
+- 💲  Building financial reporting tools and payment processing connections at Sezzle, a buy now pay later firm empowering the next generation
 - 🌱  Starting a Python course shortly
+
+### Past projects:
+- [Protect Our Elders][elder] A volunteer platform for AAPI seniors called  to feel safe walking in their community
 
 ### Skills:
 
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/react.svg" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.14.0/icons/redux.svg" />
@@ -51,10 +53,6 @@
   <img align="left" alt="davidjhinku's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidjhinku&show_icons=true&hide_border=true&count_private=true&hide=stars" />
 
 <!-- </details> -->
-
-<!--
-**davidjhinku/davidjhinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
 [website]: https://davidjhinku.com/
