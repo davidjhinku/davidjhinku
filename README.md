@@ -1,17 +1,19 @@
-### Hey there, I'm David, nice to meet you! 👋
+## Hey there, I'm David, nice to meet you! 👋
 
-## I'm a software engineer and a westcoast transplant learning to adapt to winter in Chicago
-
-- 🥅  2022 Goals: Create my own workout tracking app
+## Software engineer and a westcoast transplant living in Chicago
 - 🏔  Fun fact: I once waited 8 hours for a gondola after a hike since walking down was prohibited
 
+### 👨‍💻 Currently Working On:
+- Building financial reporting tools and payment processing connections at [Sezzle][sezzle], a buy now pay later firm empowering the next generation
+- Learning Typescript and putting together an internal blog on my progess
 
-### Currently working on:
-- 💲  Building financial reporting tools and payment processing connections at Sezzle, a buy now pay later firm empowering the next generation
-- 🌱  Starting a Python course shortly
+### 🏗️ Upcoming Projects
+- Learn mobile development through creating my own workout tracking app
+- Starting a Python course shortly
 
-### Past projects:
+### 🏛️ Past Projects:
 - [Protect Our Elders][elder] A volunteer platform for AAPI seniors called  to feel safe walking in their community
+- [Dinnr][dinnr] A clone of OpenTable, a service I fondly remember pre-pandemic
 
 ### Skills:
 
@@ -63,3 +65,4 @@
 [dinnr]: https://dinnr-aa.herokuapp.com/
 [elder]: https://protectourelders.herokuapp.com/#/
 [email]: mailto:davidjhinku@gmail.com?subject=[Github]%Lets%Connect!
+[sezzle]: https://sezzle.com/
