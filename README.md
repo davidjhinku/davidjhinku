@@ -13,6 +13,7 @@
 ### 🏛️ Past Projects:
 - [Protect Our Elders][elder] A volunteer platform for AAPI seniors called  to feel safe walking in their community
 - [Dinnr][dinnr] A clone of OpenTable, a service I fondly remember pre-pandemic
+- [Gatherer][gatherer] A javascript game dropping you on an 8bit island with a mission collecting fruit
 
 ### Skills:
 
@@ -62,6 +63,7 @@
 [twitter]: https://twitter.com/DavidJhinku
 [instagram]: https://www.instagram.com/davidjhinku
 [dinnr]: https://github.com/davidjhinku/Dinnr
+[gatherer]: https://davidjhinku.com/gatherer/
 <!-- [dinnr]: https://dinnr-aa.herokuapp.com/ ADD BACK ONCE NEW HOST IDENTIFIED --> 
 [elder]: https://github.com/dsuh93/protect-our-elders
 [email]: mailto:davidjhinku@gmail.com?subject=[Github]%Lets%Connect!
