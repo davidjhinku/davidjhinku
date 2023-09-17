@@ -1,7 +1,7 @@
 ## Hey there, I'm David, nice to meet you! 👋
 
 ## Software engineer and a westcoast transplant living in Chicago
-- 🏔  Fun fact: I once waited 8 hours for a gondola after a hike since walking down was prohibited
+- 🏔  Fun fact: I once spent 8 hours in line for a gondola down after a hike (you best believe walking down was closed)
 
 ### 👨‍💻 Currently Working On:
 - Building financial reporting tools and payment processing connections at [Sezzle][sezzle], a buy now pay later firm empowering the next generation
@@ -9,7 +9,6 @@
 
 ### 🏗️ Upcoming Projects
 - Learn mobile development through creating my own workout tracking app
-- Starting a Python course shortly
 
 ### 🏛️ Past Projects:
 - [Protect Our Elders][elder] A volunteer platform for AAPI seniors called  to feel safe walking in their community
@@ -62,7 +61,8 @@
 [angellist]: https://angel.co/u/david-jhinku
 [twitter]: https://twitter.com/DavidJhinku
 [instagram]: https://www.instagram.com/davidjhinku
-[dinnr]: https://dinnr-aa.herokuapp.com/
-[elder]: https://protectourelders.herokuapp.com/#/
+[dinnr]: https://github.com/davidjhinku/Dinnr
+<!-- [dinnr]: https://dinnr-aa.herokuapp.com/ ADD BACK ONCE NEW HOST IDENTIFIED --> 
+[elder]: https://github.com/dsuh93/protect-our-elders
 [email]: mailto:davidjhinku@gmail.com?subject=[Github]%Lets%Connect!
 [sezzle]: https://sezzle.com/
